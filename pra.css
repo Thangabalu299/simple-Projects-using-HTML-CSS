@@ -109,18 +109,7 @@ button{
     color:black;    
     background-color:darkgray
 }
-.booking{
-    text-align: left;
-    margin-top: 20px;
-    margin-right: 60px;
-    display: inline block;
-}
-fieldset{
-    width: 50%;
-    margin-left: 20px;
-   margin-left: 10px;
-   background-color: aliceblue;
-   color: blue;
+
 }
 .table{
     text-align: center;
